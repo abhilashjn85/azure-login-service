@@ -1,0 +1,13 @@
+.idea
+target
+*.iml
+*.log
+.settings/
+*/.classpath
+*/.project
+*/.apt_generated/
+*/.factorypath
+.DS_Store
+.project
+.checkstyle
+
